@@ -6,7 +6,7 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: 'https://transfer.sh/O1s6zkbmjW/recovery.img)'
 
 env:
   RECOVERY_URL :https://transfer.sh/yxJvHUtK5S/recovery.img
